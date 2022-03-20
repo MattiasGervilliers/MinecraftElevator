@@ -1,0 +1,6 @@
+name: Escalator
+version: '${project.version}'
+main: me.bluee.escalator.Escalator
+api-version: 1.18
+authors: [ Bluee_ ]
+description: A Minecraft Plugin that allow to create an escalator
